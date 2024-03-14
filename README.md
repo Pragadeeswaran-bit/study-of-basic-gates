@@ -83,6 +83,8 @@ endmodule
 
 ![WhatsApp Image 2024-03-14 at 20 51 30_9e7c4c73](https://github.com/Pragadeeswaran-bit/study-of-basic-gates/assets/147473828/0c497858-76c7-431b-ae54-c9984472191c)
 
+
+
 **RTL realization Output:** 
 
 ![WhatsApp Image 2024-03-14 at 20 51 30_b63c934c](https://github.com/Pragadeeswaran-bit/study-of-basic-gates/assets/147473828/bc761ad2-1287-495c-8aa4-879d5aa53fb3)
